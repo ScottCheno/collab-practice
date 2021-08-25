@@ -1,0 +1,13 @@
+.NavLeft {
+    height: 500px;
+    width: 500px;
+}
+
+.NavRight {
+    height: 500px;
+    width: 500px;
+}
+
+.lastPart {
+    background-color: blue;
+}
